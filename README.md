@@ -1,0 +1,1 @@
+For the truly desperate, tired of being victim to the modern job market. Automate the process! A robust software that scrapes several APIs to find opportunities, then tailors according to preset features by the user. Adapts from samples of the user's writings, so as to represent the speaker's voice. Turn your job search into a statistic inevitability! 
