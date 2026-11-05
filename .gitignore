@@ -1,7 +1,0 @@
-__pycache__/
-*.pyc
-.chrome_profile/
-listings.txt
-out/
-.linkedin_session.json
-.DS_Store
